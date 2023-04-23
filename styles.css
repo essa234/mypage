@@ -1,0 +1,28 @@
+body {
+    background-color: powderblue;
+    align-items: center;
+    text-align: center;
+    display: inline-block;
+  }
+
+  #container{
+      display: grid;
+  }
+  h1 {
+    color: blue;
+    font-size: 300%;
+    text-align: center;
+  }
+  h2 {
+    color: green;
+    font-size: 160%;
+    text-align: center;
+  }
+  p {
+    color: blue;
+    font-size: 120%;
+    text-align: center;
+  }
+  ul{
+    display: inline-block;
+  }
